@@ -2,11 +2,11 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=👋%20About%20Me&animation=&fontColor=000000&fontSize=70" />
     </div>
-    <div style="text-align: left;"> 
+    <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> Data Analyst</li><li> 저는 호기심이 많은 개발자입니다. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> <li> Data Analyst</li><li> 저는 호기심이 많은 개발자입니다. </div> 
     </div>
-    
+
 <!-- 내용 부분 -->
 <h3 align="center"> ✨ TECH STACK ✨ </h3>
 <div align="center">
