@@ -18,7 +18,7 @@
 
 <br>
 
-<h3 align="center"> 📚 STUDYING 📚 </h3>
+<h3 align="center"> 🎓 EDUCATION 🎓 </h3>
 
 <br>
 
